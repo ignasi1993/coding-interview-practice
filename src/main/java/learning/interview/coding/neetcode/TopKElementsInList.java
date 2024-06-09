@@ -3,7 +3,7 @@ package learning.interview.coding.neetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TopKFrequent {
+public class TopKElementsInList {
 
     static class Solution1 {
         public int[] topKFrequent(int[] nums, int k) {
