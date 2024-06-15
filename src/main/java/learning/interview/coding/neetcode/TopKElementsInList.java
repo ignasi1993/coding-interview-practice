@@ -3,6 +3,7 @@ package learning.interview.coding.neetcode;
 import java.util.HashMap;
 import java.util.Map;
 
+@SuppressWarnings("unused")
 public class TopKElementsInList {
 
     static class Solution1 {
