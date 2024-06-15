@@ -3,9 +3,10 @@ package learning.interview.coding.neetcode;
 import java.util.HashMap;
 import java.util.HashSet;
 
+@SuppressWarnings("unused")
 public class ProductsOfArrayDiscludingSelf {
 
-    class Solution1 {
+    static class Solution1 {
 
         public int[] productExceptSelf(int[] nums) {
             var set = new HashSet<Integer>(nums.length);
@@ -35,7 +36,7 @@ public class ProductsOfArrayDiscludingSelf {
         }
     }
 
-    class Solution2 {
+    static class Solution2 {
 
         public int[] productExceptSelf(int[] nums) {
             var map = new HashMap<Integer, Integer>(nums.length);

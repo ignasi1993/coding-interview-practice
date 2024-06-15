@@ -2,6 +2,7 @@ package learning.interview.coding.neetcode;
 
 import java.util.HashMap;
 
+@SuppressWarnings("unused")
 public class TwoIntegerSum {
 
     static class Solution1 {

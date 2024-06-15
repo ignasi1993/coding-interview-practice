@@ -2,6 +2,7 @@ package learning.interview.coding.neetcode;
 
 import java.util.HashSet;
 
+@SuppressWarnings("unused")
 public class DuplicateInteger {
 
     static class Solution1 {
