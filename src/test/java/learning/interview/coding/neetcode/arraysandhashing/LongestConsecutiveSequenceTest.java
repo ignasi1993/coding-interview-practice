@@ -1,6 +1,5 @@
 package learning.interview.coding.neetcode.arraysandhashing;
 
-import learning.interview.coding.neetcode.arraysandhashing.LongestConsecutiveSequence;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
