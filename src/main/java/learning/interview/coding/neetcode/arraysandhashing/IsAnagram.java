@@ -1,8 +1,9 @@
-package learning.interview.coding.neetcode;
+package learning.interview.coding.neetcode.arraysandhashing;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
+@SuppressWarnings("unused")
 public class IsAnagram {
 
     static class Solution1 {

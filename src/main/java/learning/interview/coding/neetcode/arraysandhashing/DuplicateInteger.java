@@ -1,7 +1,8 @@
-package learning.interview.coding.neetcode;
+package learning.interview.coding.neetcode.arraysandhashing;
 
 import java.util.HashSet;
 
+@SuppressWarnings("unused")
 public class DuplicateInteger {
 
     static class Solution1 {
