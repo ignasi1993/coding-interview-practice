@@ -3,8 +3,11 @@ package learning.interview.coding.neetcode.arraysandhashing;
 import java.util.HashMap;
 import java.util.HashSet;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/products-of-array-discluding-self">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class ProductsOfArrayDiscludingSelf {
+public class ProductOfArrayExceptSelf {
 
     static class Solution1 {
 

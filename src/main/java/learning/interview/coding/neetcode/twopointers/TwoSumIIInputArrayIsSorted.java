@@ -1,6 +1,10 @@
 package learning.interview.coding.neetcode.twopointers;
 
-public class TwoIntegerSumII {
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/two-integer-sum-ii">problem</a>.
+ */
+@SuppressWarnings("unused")
+public class TwoSumIIInputArrayIsSorted {
 
     static class Solution {
         public int[] twoSum(int[] numbers, int target) {

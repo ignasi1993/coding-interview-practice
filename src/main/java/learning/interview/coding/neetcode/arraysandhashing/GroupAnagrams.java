@@ -5,8 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/anagram-groups">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class AnagramGroups {
+public class GroupAnagrams {
 
     static class Solution1 {
         public List<List<String>> groupAnagrams(String[] strs) {

@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@SuppressWarnings("unused")
-public class StringEncodeAndDecode {
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/string-encode-and-decode">problem</a>.
+ */
+public class EncodeAndDecodeStrings {
 
     static class Solution {
 

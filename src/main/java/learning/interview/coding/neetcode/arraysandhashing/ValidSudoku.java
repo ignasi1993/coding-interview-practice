@@ -5,6 +5,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/valid-sudoku">problem</a>.
+ */
 @SuppressWarnings("unused")
 public class ValidSudoku {
 

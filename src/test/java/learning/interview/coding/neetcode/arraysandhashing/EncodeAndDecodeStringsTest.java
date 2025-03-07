@@ -9,9 +9,9 @@ import java.util.stream.Stream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class StringEncodeAndDecodeTest {
+public class EncodeAndDecodeStringsTest {
 
-    private final StringEncodeAndDecode.Solution stringEncodeAndDecode = new StringEncodeAndDecode.Solution();
+    private final EncodeAndDecodeStrings.Solution stringEncodeAndDecode = new EncodeAndDecodeStrings.Solution();
 
     @ParameterizedTest
     @MethodSource(value = "provideTestArguments")

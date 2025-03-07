@@ -3,8 +3,11 @@ package learning.interview.coding.neetcode.arraysandhashing;
 import java.util.Arrays;
 import java.util.HashMap;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/is-anagram">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class IsAnagram {
+public class ValidAnagram {
 
     static class Solution1 {
         public boolean isAnagram(String s, String t) {

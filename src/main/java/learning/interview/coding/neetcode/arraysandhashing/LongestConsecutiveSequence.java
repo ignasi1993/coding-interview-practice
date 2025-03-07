@@ -2,6 +2,9 @@ package learning.interview.coding.neetcode.arraysandhashing;
 
 import java.util.*;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/longest-consecutive-sequence">problem</a>.
+ */
 public class LongestConsecutiveSequence {
 
     static class Solution1 {

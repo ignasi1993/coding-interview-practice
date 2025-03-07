@@ -2,8 +2,11 @@ package learning.interview.coding.neetcode.arraysandhashing;
 
 import java.util.HashSet;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/duplicate-integer">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class DuplicateInteger {
+public class ContainsDuplicate {
 
     static class Solution1 {
         public boolean hasDuplicate(int[] nums) {

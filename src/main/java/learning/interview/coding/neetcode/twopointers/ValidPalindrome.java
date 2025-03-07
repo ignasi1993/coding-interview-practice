@@ -2,7 +2,10 @@ package learning.interview.coding.neetcode.twopointers;
 
 import java.util.ArrayList;
 
-public class IsPalindrome {
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/is-palindrome">problem</a>.
+ */
+public class ValidPalindrome {
 
     static class Solution {
         public boolean isPalindrome(String s) {

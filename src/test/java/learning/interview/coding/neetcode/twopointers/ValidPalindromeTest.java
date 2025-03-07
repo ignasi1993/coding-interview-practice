@@ -8,9 +8,9 @@ import java.util.stream.Stream;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class IsPalindromeTest {
+class ValidPalindromeTest {
 
-    private final IsPalindrome.Solution solution = new IsPalindrome.Solution();
+    private final ValidPalindrome.Solution solution = new ValidPalindrome.Solution();
 
     @ParameterizedTest
     @MethodSource("argumentsProvider")

@@ -4,7 +4,12 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class ThreeIntegerSum {
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/three-integer-sum">problem</a>.
+ * Should be called 3Sum, but it is not a valid Java class name.
+ */
+@SuppressWarnings("unused")
+public class ThreeSum {
 
     static class BruteForceSolution {
         public List<List<Integer>> threeSum(int[] nums) {

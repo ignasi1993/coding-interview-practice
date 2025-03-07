@@ -2,8 +2,11 @@ package learning.interview.coding.neetcode.arraysandhashing;
 
 import java.util.HashMap;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/two-integer-sum">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class TwoIntegerSum {
+public class TwoSum {
 
     static class Solution1 {
         public int[] twoSum(int[] nums, int target) throws Exception {

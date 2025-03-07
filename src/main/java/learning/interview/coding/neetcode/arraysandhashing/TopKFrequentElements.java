@@ -3,8 +3,11 @@ package learning.interview.coding.neetcode.arraysandhashing;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Based on neetcode.io's <a href="https://neetcode.io/problems/top-k-elements-in-list">problem</a>.
+ */
 @SuppressWarnings("unused")
-public class TopKElementsInList {
+public class TopKFrequentElements {
 
     static class Solution1 {
         public int[] topKFrequent(int[] nums, int k) {
